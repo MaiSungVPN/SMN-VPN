@@ -5,32 +5,12 @@
 
 {
          "name": "Dtac-VIP01",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/vip-true-dtac01.ovpn"
-      }
-,
-{
-         "name": "Dtac-VIP02",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/vip-true-dtac02.ovpn"
-      }
-,
-{
-         "name": "Dtac-VIP03",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/vip-true-dtac03.ovpn"
+         "url": "https://raw.githubusercontent.com/MaiSungVPN/SMN-VPN/main/True-Dtac.ovpn"
       }
 ,
 {
          "name": "True-VIP01",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/vip-true-dtac01.ovpn"
-      }
-,
-{
-         "name": "True-VIP02",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/vip-true-dtac02.ovpn"
-      }
-,
-{
-         "name": "True-VIP03",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/vip-true-dtac03.ovpn"
+         "url": "https://raw.githubusercontent.com/MaiSungVPN/SMN-VPN/main/True-Dtac.ovpn"
       }
 
 
@@ -43,7 +23,7 @@
 🌟VIP Face+Youtube✅
 🌟VIP Game+Online✅
 💥Update 20/03/2023✅
-\n\nFile Version 1",
+\n\nFile Version 2",
 "title":"New Update File" ,
-   "version":1
+   "version":2
 }
